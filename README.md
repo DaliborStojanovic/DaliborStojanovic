@@ -13,8 +13,13 @@
 </p>
 
 # 💫 About Me:
+
 <!-- ![](https://komarev.com/ghpvc/?username=DaliborStojanovic&color=447ff7&label=Visitor+count) -->
-![ViewCount](https://views.whatilearened.today/views/github/DaliborStojanovic/views.svg) ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) [![GitHub DaliborStojanovic](https://img.shields.io/github/followers/DaliborStojanovic?label=follow&style=social)](https://github.com/DaliborStojanovic) ![build: passing](https://img.shields.io/badge/build-passing-success)
+
+![ViewCount](https://views.whatilearened.today/views/github/DaliborStojanovic/views.svg)
+![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational)
+[![GitHub DaliborStojanovic](https://img.shields.io/github/followers/DaliborStojanovic?label=follow&style=social)](https://github.com/DaliborStojanovic)
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
 As a backend developer with four years of experience, I've honed my skills in designing and building the server-side of applications that power the web. <br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.<br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.<br>My deep understanding of software architecture principles has enabled me to create well-structured and maintainable codebases.<br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.<br>
 
@@ -51,26 +56,59 @@ As a backend developer with four years of experience, I've honed my skills in de
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Languages
+### Languages & Frameworks
+
 - 🌐
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=563D7C) ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![C](https://img.shields.io/badge/-C-000?&logo=C) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C) ![Go](https://img.shields.io/badge/-Go-000?&logo=go&logoColor=00599C)
- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) 
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=Sass&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+  ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=CoffeeScript&logoColor=1572B6)
+  [![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=)
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+   ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+   ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+  ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=flat&logo=wordpress)
+
+- 🛢
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
+  ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+- 💢
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![C](https://img.shields.io/badge/-C-000?&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+  ![Go](https://img.shields.io/badge/-Go-000?&logo=go&logoColor=00599C)
+  ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)
+
 
 ### IDE & VCS Tools
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC) [![Vim](https://img.shields.io/badge/Vim-000?style=flat&logo=vim)]()
+
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+[![Vim](https://img.shields.io/badge/Vim-000?style=flat&logo=vim)]()
+[![Jira](https://img.shields.io/badge/Jira-000?style=flat&logo=Jira)]()
 
 ### Technologies
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis) ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Full Stack Projects
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2) [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard) [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer) [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch) [![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat) [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker) [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # Status
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaliborStojanovic&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=DaliborStojanovic&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaliborStojanovic&theme=algolia)
+![trophy](https://github-profile-trophy.vercel.app/?username=DaliborStojanovic&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -83,7 +121,6 @@ As a backend developer with four years of experience, I've honed my skills in de
 <div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 [banner]: https://raw.githubusercontent.com/DaliborStojanovic/DaliborStojanovic/master/asset/github-header-image.png
 [website]: https://ahsankhan.me
