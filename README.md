@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dalibor Stojanovic</h1>
-
-[![](https://raw.githubusercontent.com/DaliborStojanovic/DaliborStojanovic/master/asset/gif/animation.gif)](https://www.DaliborStojanovic.com/)
-
+[![bg][banner]][website]
 
 # 💫 About Me:
 
@@ -9,11 +6,42 @@ As a backend developer with four years of experience, I've honed my skills in de
 
 ![](https://komarev.com/ghpvc/?username=DaliborStojanovic&color=447ff7&label=Visitor+count)
 
+
+# Education
+
+<table>
+  <tr>
+    <th>Course</th>
+    <th>School/University</th>
+    <th>Year of Passing</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td>B.E. in Computer Engineering</td>
+    <td><a href="https://mu.ac.in/">Mumbai University</a></td>
+    <td>2022</td>
+    <td>8.76 CGPA (Current)</td>
+  </tr>
+  <tr>
+    <td>Higher Secondary Certification</td>
+    <td><a href="http://vvhs.edu.in/">Vasant Vihar High School & Junior College</a></td>
+    <td>2018</td>
+    <td>78.77%</td>
+  </tr>
+  <tr>
+    <td>Secondary School Certification</td>
+    <td><a href="https://kaveri.edu.in/khsg/">Dr Kalmadi Shamarao High School</a></td>
+    <td>2016</td>
+    <td>87%</td>
+  </tr>
+ </table>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![C](https://img.shields.io/badge/-C-000?&logo=C) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![C](https://img.shields.io/badge/-C-000?&logo=C) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 ### Technologies
 
@@ -22,6 +50,20 @@ As a backend developer with four years of experience, I've honed my skills in de
 ### Full Stack Projects
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2) [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard) [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer) [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch) [![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat) [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker) [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=DaliborStojanovic&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaliborStojanovic&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+# Status
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaliborStojanovic&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=DaliborStojanovic&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+
+![ViewCount](https://views.whatilearened.today/views/github/DaliborStojanovic/views.svg)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+[banner]: https://raw.githubusercontent.com/DaliborStojanovic/DaliborStojanovic/master/asset/github-header-image.jpg
+[website]: https://ahsankhan.me
+[github]: https://github.com/ahsankhan26
+[linkedin]: https://linkedin.com/in/ahsankhan26
+[hackerrank]: https://hackerrank.com/ahsankhan26
+[instagram]: https://instagram.com/ahsankhan26
+[stackoverflow]: https://stackoverflow.com/users/13870209/ahsan-khan
