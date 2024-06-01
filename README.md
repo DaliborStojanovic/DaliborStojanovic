@@ -26,8 +26,27 @@
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational)
 [![GitHub DaliborStojanovic](https://img.shields.io/github/followers/DaliborStojanovic?label=follow&style=social)](https://github.com/DaliborStojanovic)
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-
-As a backend developer with four years of experience, I've honed my skills in designing and building the server-side of applications that power the web. <br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.<br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.<br>My deep understanding of software architecture principles has enabled me to create well-structured and maintainable codebases.<br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.<br>
+- BACK-END
+As a backend developer with 5+ years of experience, I've honed my skills in designing and building the server-side of applications that power the web.
+<br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.
+<br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.
+<br>My deep understanding of software architecture principles has enabled me to create well-structured and maintainable codebases.
+<br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.
+<br>
+- FRONT-END
+As a backend developer with 5+ years of experience, I've honed my skills in designing and building the server-side of applications that power the web.
+<br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.
+<br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.
+<br>My deep understanding of software architecture principles has enabled me to create well-structured and maintainable codebases.
+<br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.
+<br>
+- BLOCKCHAIN
+As a backend developer with 5+ years of experience, I've honed my skills in designing and building the server-side of applications that power the web.
+<br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.
+<br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.
+<br>My deep understanding of software architecture principles has enabled me to create well-structured and maintainable codebases.
+<br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
