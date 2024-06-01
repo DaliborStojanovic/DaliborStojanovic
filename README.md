@@ -1,13 +1,13 @@
 [![bg][banner]][website]
 
 <p id="socialIcons" align="center">
-    <a href="https://linkedin.com/in/ahsankhan26" alt="LinkedIn">
+    <a href="https://linkedin.com/in/milblue789" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
     </a>
-    <a href="https://hackerrank.com/ahsankhan26" alt="HackerRank">
+    <a href="https://hackerrank.com/milblue789" alt="HackerRank">
         <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
     </a>
-    <a href="https://stackoverflow.com/users/13870209/ahsan-khan" alt="StackOverflow">
+    <a href="https://stackoverflow.com/users/13870209/milblue789" alt="StackOverflow">
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
     </a>
 </p>
@@ -59,13 +59,14 @@ As a backend developer with four years of experience, I've honed my skills in de
 ### Programming Languages 👨‍💻 :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Java](https://img.shields.io/badge/Java-000?style=flat&logo=CoffeeScript&logoColor=1572B6)
+![Java](https://img.shields.io/badge/Java-000?style=flat&logo=CoffeeScript)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Go](https://img.shields.io/badge/-Go-000?&logo=go&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
+![Go](https://img.shields.io/badge/-Go-000?&logo=go)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)
 
 ### Web Development 🌐 :
@@ -74,21 +75,24 @@ As a backend developer with four years of experience, I've honed my skills in de
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)
-![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=Sass&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
+![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=Sass)
 ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=flat&logo=wordpress)
 
 ### DataBase Management 🛢 :
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
 ### Frameworks & Libraries 📦 :
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=563D7C)
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)
+![DJango](https://img.shields.io/badge/-DJango-000?style=flat&logo=django)
 
 ### IDEs/Editors 👨‍🔧 :
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code)
 ![Vim](https://img.shields.io/badge/Vim-000?style=flat&logo=vim)
 ![Jira](https://img.shields.io/badge/Jira-000?style=flat&logo=Jira)
 ![Sublime](https://img.shields.io/badge/SublimeText-000?style=flat&logo=sublime-text)
@@ -100,7 +104,7 @@ As a backend developer with four years of experience, I've honed my skills in de
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
 
 ### Technologies 🧰 :
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
