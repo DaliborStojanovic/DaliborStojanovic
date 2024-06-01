@@ -56,22 +56,24 @@ As a backend developer with four years of experience, I've honed my skills in de
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Languages & Frameworks
+### Programming Languages 👨‍💻 :
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Java](https://img.shields.io/badge/Java-000?style=flat&logo=CoffeeScript&logoColor=1572B6)
+[![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=563D7C)
 
-- 🌐
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=Sass&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-  ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=CoffeeScript&logoColor=1572B6)
-  [![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=)
-  ![React](https://img.shields.io/badge/-React-000?&logo=React)
-   ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-   ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-  ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=flat&logo=wordpress)
-
+### Web Development 🌐 :
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=Sass&logoColor=1572B6)
+![Wordpress](https://img.shields.io/badge/Wordpress-000?style=flat&logo=wordpress)
+  
 - 🛢
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
