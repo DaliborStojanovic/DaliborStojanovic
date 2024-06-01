@@ -113,7 +113,7 @@ As a backend developer with four years of experience, I've honed my skills in de
 # Status
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaliborStojanovic&theme=algolia)
-![trophy](https://github-profile-trophy.vercel.app/?username=DaliborStojanovic&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+![trophy]([https://github-profile-trophy.vercel.app/?username=DaliborStojanovic&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&no-frame=true&margin-w=15&margin-h=15)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
