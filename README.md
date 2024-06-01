@@ -71,11 +71,11 @@ As a backend developer with four years of experience, I've honed my skills in de
 
 ### Web Development 🌐 :
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue)
+![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![Nestjs](https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=Sass)
