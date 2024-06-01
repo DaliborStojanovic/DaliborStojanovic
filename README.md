@@ -91,9 +91,9 @@ As a backend developer with four years of experience, I've honed my skills in de
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Vim](https://img.shields.io/badge/Vim-000?style=flat&logo=vim)
 ![Jira](https://img.shields.io/badge/Jira-000?style=flat&logo=Jira)
-![Sublime](https://img.shields.io/badge/sublime-text-000?style=flat&logo=sublime-text)
-![Pycharm](https://img.shields.io/badge/pycharm-000?style=flat&logo=pycharm)
-![Jupyter](https://img.shields.io/badge/jupyter-000?style=flat&logo=jupyter)
+![Sublime](https://img.shields.io/badge/SublimeText-000?style=flat&logo=sublime-text)
+![Pycharm](https://img.shields.io/badge/Pycharm-000?style=flat&logo=pycharm)
+![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter)
 
 ### Version Control 🔧 :
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
