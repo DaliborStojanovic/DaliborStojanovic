@@ -65,6 +65,7 @@ As a backend developer with four years of experience, I've honed my skills in de
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=go)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)
@@ -86,12 +87,17 @@ As a backend developer with four years of experience, I've honed my skills in de
 ![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+![GrqphQL](https://img.shields.io/badge/-GrqphQL-000?&logo=grqphql)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)
 
 ### Frameworks & Libraries 📦 :
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)
 ![DJango](https://img.shields.io/badge/-DJango-000?style=flat&logo=django)
+![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
 
 ### IDE & Tools 👨‍🔧 :
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code)
@@ -101,6 +107,7 @@ As a backend developer with four years of experience, I've honed my skills in de
 ![Pycharm](https://img.shields.io/badge/Pycharm-000?style=flat&logo=pycharm)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter)
 ![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma)
 
 ### Version Control 🔧 :
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
