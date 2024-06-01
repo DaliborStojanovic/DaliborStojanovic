@@ -92,20 +92,22 @@ As a backend developer with four years of experience, I've honed my skills in de
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
     
   <h3>👨‍💻 Programming and Markup Languages</h3>
-      ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-      ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-      ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=CoffeeScript)
-      ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=Kotlin&logoColor=white)
-      ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-      ![C](https://img.shields.io/badge/-C-000?&logo=C)
-      ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
-      ![Go](https://img.shields.io/badge/-Go-000?&logo=go)
-      ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
-      ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-      ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-      ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)
-      ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=asm-hex)
-      ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
+  <p>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"></a>
+      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript"></a>
+      <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-000?style=flat&logo=CoffeeScript"></a>
+      <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000?style=flat&logo=Kotlin&logoColor=white"></a>
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=Python"></a>
+      <a href="#"><img alt="C" src="https://img.shields.io/badge/-C-000?&logo=C"></a>
+      <a href="#"><img alt="C++" src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b"></a>
+      <a href="#"><img alt="Go" src="https://img.shields.io/badge/-Go-000?&logo=go"></a>
+      <a href="#"><img alt="PHP" src="https://img.shields.io/badge/-PHP-000?&logo=php"></a>
+      <a href="#"><img alt="Swift" src="https://img.shields.io/badge/-Swift-000?&logo=Swift"></a>
+      <a href="#"><img alt="Dart" src="https://img.shields.io/badge/-Dart-000?&logo=Dart"></a>
+      <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown"></a>
+      <a href="#"><img alt="Assembly" src="https://img.shields.io/badge/-Assembly-000?&logo=asm-hex"></a>
+      <a href="#"><img alt="Bash" src="https://img.shields.io/badge/-Bash-000?&logo=gnu-bash"></a>
+  </p>
   
   <h3>🌐 Web Development</h3>
       ![React](https://img.shields.io/badge/-React-000?&logo=React)
