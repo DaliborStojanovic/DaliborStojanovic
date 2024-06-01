@@ -60,49 +60,52 @@ As a backend developer with four years of experience, I've honed my skills in de
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=CoffeeScript&logoColor=1572B6)
-[![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=563D7C)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=Kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Go](https://img.shields.io/badge/-Go-000?&logo=go&logoColor=00599C)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)
 
 ### Web Development 🌐 :
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=Sass&logoColor=1572B6)
 ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=flat&logo=wordpress)
-  
-- 🛢
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
-  ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-- 💢
-  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-  ![C](https://img.shields.io/badge/-C-000?&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-  ![Go](https://img.shields.io/badge/-Go-000?&logo=go&logoColor=00599C)
-  ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-  ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)
 
+### DataBase Management 🛢 :
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
-### IDE & VCS Tools
+### Frameworks & Libraries 📦 :
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=563D7C)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=563D7C)
 
+### IDEs/Editors 👨‍🔧 :
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Vim](https://img.shields.io/badge/Vim-000?style=flat&logo=vim)
+![Jira](https://img.shields.io/badge/Jira-000?style=flat&logo=Jira)
+![Sublime](https://img.shields.io/badge/sublime-text-000?style=flat&logo=sublime-text)
+![Pycharm](https://img.shields.io/badge/pycharm-000?style=flat&logo=pycharm)
+![Jupyter](https://img.shields.io/badge/jupyter-000?style=flat&logo=jupyter)
+
+### Version Control 🔧 :
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
-[![Vim](https://img.shields.io/badge/Vim-000?style=flat&logo=vim)]()
-[![Jira](https://img.shields.io/badge/Jira-000?style=flat&logo=Jira)]()
 
-### Technologies
-
+### Technologies 🧰 :
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
