@@ -25,9 +25,12 @@ As a backend developer with four years of experience, I've honed my skills in de
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Education
+# 
+<details> 
+  <summary><h2>🎑 Education & Employment</h2></summary>
 
-<table>
+  <h3>📕 Education</h3>
+  <table>
   <tr>
     <th>Course</th>
     <th>School/University</th>
@@ -54,73 +57,129 @@ As a backend developer with four years of experience, I've honed my skills in de
   </tr>
  </table>
 
+ <h3>🏧 Employment</h3>
+ <table>
+  <tr>
+    <th>Course</th>
+    <th>School/University</th>
+    <th>Year of Passing</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td>B.E. in Computer Engineering</td>
+    <td><a href="https://mu.ac.in/">Mumbai University</a></td>
+    <td>2022</td>
+    <td>8.76 CGPA (Current)</td>
+  </tr>
+  <tr>
+    <td>Higher Secondary Certification</td>
+    <td><a href="http://vvhs.edu.in/">Vasant Vihar High School & Junior College</a></td>
+    <td>2018</td>
+    <td>78.77%</td>
+  </tr>
+  <tr>
+    <td>Secondary School Certification</td>
+    <td><a href="https://kaveri.edu.in/khsg/">Dr Kalmadi Shamarao High School</a></td>
+    <td>2016</td>
+    <td>87%</td>
+  </tr>
+ </table>
+
+</details>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Programming Languages 👨‍💻 :
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Java](https://img.shields.io/badge/Java-000?style=flat&logo=CoffeeScript)
-![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=Kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
-![Go](https://img.shields.io/badge/-Go-000?&logo=go)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)
-
-### Web Development 🌐 :
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![Nestjs](https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs)
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
-![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=Sass)
-![Wordpress](https://img.shields.io/badge/Wordpress-000?style=flat&logo=wordpress)
-
-### DataBase Management 🛢 :
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
-![GrqphQL](https://img.shields.io/badge/-GrqphQL-000?&logo=grqphql)
-![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)
-
-### Frameworks & Libraries 📦 :
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
-![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)
-![DJango](https://img.shields.io/badge/-DJango-000?style=flat&logo=django)
-![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
-
-### IDE & Tools 👨‍🔧 :
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code)
-![Vim](https://img.shields.io/badge/Vim-000?style=flat&logo=vim)
-![Jira](https://img.shields.io/badge/Jira-000?style=flat&logo=Jira)
-![Sublime](https://img.shields.io/badge/SublimeText-000?style=flat&logo=sublime-text)
-![Pycharm](https://img.shields.io/badge/Pycharm-000?style=flat&logo=pycharm)
-![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter)
-![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma)
-
-### Version Control 🔧 :
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
-
-### Technologies 🧰 :
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+<details> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+    
+  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <p>
+      ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+      ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+      ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=CoffeeScript)
+      ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=Kotlin&logoColor=white)
+      ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+      ![C](https://img.shields.io/badge/-C-000?&logo=C)
+      ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
+      ![Go](https://img.shields.io/badge/-Go-000?&logo=go)
+      ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
+      ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+      ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+      ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)
+      ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=asm-hex)
+      ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
+  </p>
+  
+  <h3>🌐 Web Development</h3>
+  <p>
+      ![React](https://img.shields.io/badge/-React-000?&logo=React)
+      ![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
+      ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+      ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
+      ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+      ![Nestjs](https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs)
+      ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
+      ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
+      ![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=Sass)
+      ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=flat&logo=wordpress)
+  </p>
+  
+  <h3>🛢 DataBase & Cloud Hosting </h3>
+  <p>
+      ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+      ![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
+      ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+      ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+      ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+      ![GrqphQL](https://img.shields.io/badge/-GrqphQL-000?&logo=grqphql)
+      ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)
+      ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=oracle)
+      ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?&logo=github)
+      ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
+  </p>
+  
+  <h3>🧰 Frameworks & Libraries</h3>
+  <p>
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
+    ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
+    ![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)
+    ![DJango](https://img.shields.io/badge/-DJango-000?style=flat&logo=django)
+    ![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel)
+    ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
+    ![Electron](https://img.shields.io/badge/-Electron-000?style=flat&logo=electron)
+    ![JUnit](https://img.shields.io/badge/-JUnit-000?style=flat&logo=check-circle)
+    ![Material Design](https://img.shields.io/badge/-Material%20Design-000?style=flat&logo=material-design)
+  </p>
+  
+  <h3>👨‍🔧 IDE & Tools</h3>
+  <p>
+      ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code)
+      ![Vim](https://img.shields.io/badge/Vim-000?style=flat&logo=vim)
+      ![Jira](https://img.shields.io/badge/Jira-000?style=flat&logo=Jira)
+      ![Sublime](https://img.shields.io/badge/SublimeText-000?style=flat&logo=sublime-text)
+      ![Pycharm](https://img.shields.io/badge/Pycharm-000?style=flat&logo=pycharm)
+      ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter)
+      ![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman)
+      ![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma)
+  </p>
+  
+  <h3>🔧 Version Control</h3>
+  <p>
+      ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+      ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
+  </p>
+  
+  <h3>🎡 Technologies</h3>
+  <p>
+      ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+      ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+      ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+      ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+      ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+      ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+      ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+  </p>
+</details> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
