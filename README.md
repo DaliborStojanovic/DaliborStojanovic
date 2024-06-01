@@ -25,7 +25,6 @@ As a backend developer with four years of experience, I've honed my skills in de
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 
 <details> 
   <summary><h2>🎑 Education & Employment</h2></summary>
 
@@ -93,7 +92,6 @@ As a backend developer with four years of experience, I've honed my skills in de
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
     
   <h3>👨‍💻 Programming and Markup Languages</h3>
-  <p>
       ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
       ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
       ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=CoffeeScript)
@@ -108,10 +106,8 @@ As a backend developer with four years of experience, I've honed my skills in de
       ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)
       ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=asm-hex)
       ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
-  </p>
   
   <h3>🌐 Web Development</h3>
-  <p>
       ![React](https://img.shields.io/badge/-React-000?&logo=React)
       ![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
       ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -122,10 +118,8 @@ As a backend developer with four years of experience, I've honed my skills in de
       ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
       ![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=Sass)
       ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=flat&logo=wordpress)
-  </p>
   
   <h3>🛢 DataBase & Cloud Hosting </h3>
-  <p>
       ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
       ![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
       ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
@@ -136,10 +130,8 @@ As a backend developer with four years of experience, I've honed my skills in de
       ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=oracle)
       ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?&logo=github)
       ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
-  </p>
   
   <h3>🧰 Frameworks & Libraries</h3>
-  <p>
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
     ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
     ![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)
@@ -149,10 +141,8 @@ As a backend developer with four years of experience, I've honed my skills in de
     ![Electron](https://img.shields.io/badge/-Electron-000?style=flat&logo=electron)
     ![JUnit](https://img.shields.io/badge/-JUnit-000?style=flat&logo=check-circle)
     ![Material Design](https://img.shields.io/badge/-Material%20Design-000?style=flat&logo=material-design)
-  </p>
   
   <h3>👨‍🔧 IDE & Tools</h3>
-  <p>
       ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code)
       ![Vim](https://img.shields.io/badge/Vim-000?style=flat&logo=vim)
       ![Jira](https://img.shields.io/badge/Jira-000?style=flat&logo=Jira)
@@ -161,16 +151,12 @@ As a backend developer with four years of experience, I've honed my skills in de
       ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter)
       ![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman)
       ![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma)
-  </p>
   
   <h3>🔧 Version Control</h3>
-  <p>
       ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
       ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
-  </p>
   
   <h3>🎡 Technologies</h3>
-  <p>
       ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
       ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
       ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -178,7 +164,6 @@ As a backend developer with four years of experience, I've honed my skills in de
       ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
       ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
       ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-  </p>
 </details> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
