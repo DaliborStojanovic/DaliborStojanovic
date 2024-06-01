@@ -190,14 +190,14 @@ As a backend developer with four years of experience, I've honed my skills in de
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="#">
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bacon-delight&theme=holi-theme">
+      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DaliborStojanovic&theme=holi-theme">
     </a>
   </p>
 
   <h3>🔥 GitHub Profile Stats</h3>
   <p>
     <a href="#">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=github_dark">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaliborStojanovic&count_private=true&show_icons=true&theme=github_dark">
     </a>
   </p>
 
