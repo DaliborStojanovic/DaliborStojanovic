@@ -110,62 +110,68 @@ As a backend developer with four years of experience, I've honed my skills in de
   </p>
   
   <h3>🌐 Web Development</h3>
-      ![React](https://img.shields.io/badge/-React-000?&logo=React)
-      ![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
-      ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-      ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
-      ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-      ![Nestjs](https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs)
-      ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
-      ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
-      ![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=Sass)
-      ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=flat&logo=wordpress)
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-000?&logo=React"></a>
+      <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue-000?&logo=vue.js"></a>
+      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?&logo=node.js"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000?&logo=express"></a>
+      <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js"></a>
+      <a href="#"><img alt="Nestjs" src="https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs"></a>
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5"></a>
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3"></a>
+      <a href="#"><img alt="SCSS" src="https://img.shields.io/badge/-SCSS-000?style=flat&logo=Sass"></a>
+      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-000?style=flat&logo=wordpress"></a>
   
   <h3>🛢 DataBase & Cloud Hosting </h3>
-      ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
-      ![MySQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
-      ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-      ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-      ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
-      ![GrqphQL](https://img.shields.io/badge/-GrqphQL-000?&logo=grqphql)
-      ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)
-      ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=oracle)
-      ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?&logo=github)
-      ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
+      <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-MYSQL-000?&logo=MySQL"></a>
+      <a href="#"><img alt="Redis" src="https://img.shields.io/badge/-Redis-000?&logo=Redis"></a>
+      <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql"></a>
+      <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/-SQLite-000?&logo=sqlite"></a>
+      <a href="#"><img alt="GrqphQL" src="https://img.shields.io/badge/-GrqphQL-000?&logo=grqphql"></a>
+      <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/-Prisma-000?&logo=prisma"></a>
+      <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/-Oracle-000?&logo=oracle"></a>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-000?&logo=github"></a>
+      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?&logo=vercel"></a>
   
   <h3>🧰 Frameworks & Libraries</h3>
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
-    ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
-    ![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)
-    ![DJango](https://img.shields.io/badge/-DJango-000?style=flat&logo=django)
-    ![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel)
-    ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
-    ![Electron](https://img.shields.io/badge/-Electron-000?style=flat&logo=electron)
-    ![JUnit](https://img.shields.io/badge/-JUnit-000?style=flat&logo=check-circle)
-    ![Material Design](https://img.shields.io/badge/-Material%20Design-000?style=flat&logo=material-design)
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=flat&logo=flask"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter"></a>
+    <a href="#"><img alt="DJango" src="https://img.shields.io/badge/-DJango-000?style=flat&logo=django"></a>
+    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase"></a>
+    <a href="#"><img alt="Electron" src="https://img.shields.io/badge/-Electron-000?style=flat&logo=electron"></a>
+    <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/-JUnit-000?style=flat&logo=check-circle"></a>
+    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/-Material%20Design-000?style=flat&logo=material-design"></a>
   
   <h3>👨‍🔧 IDE & Tools</h3>
-      ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code)
-      ![Vim](https://img.shields.io/badge/Vim-000?style=flat&logo=vim)
-      ![Jira](https://img.shields.io/badge/Jira-000?style=flat&logo=Jira)
-      ![Sublime](https://img.shields.io/badge/SublimeText-000?style=flat&logo=sublime-text)
-      ![Pycharm](https://img.shields.io/badge/Pycharm-000?style=flat&logo=pycharm)
-      ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter)
-      ![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman)
-      ![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma)
+  <p>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code"></a>
+      <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-000?style=flat&logo=vim"></a>
+      <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-000?style=flat&logo=Jira"></a>
+      <a href="#"><img alt="Sublime" src="https://img.shields.io/badge/SublimeText-000?style=flat&logo=sublime-text"></a>
+      <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000?style=flat&logo=pycharm"></a>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-000?style=flat&logo=postman"></a>
+      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-000?style=flat&logo=figma"></a>
+  </p>
   
   <h3>🔧 Version Control</h3>
-      ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-      ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
+  <p>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-000?style=flat&logo=git"></a>
+      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github"></a>
+  </p>
   
   <h3>🎡 Technologies</h3>
-      ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-      ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-      ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-      ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-      ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-      ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-      ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+  <p>
+      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-000?&logo=Docker"></a>
+      <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes"></a>
+      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=Linux"></a>
+      <a href="#"><img alt="Spring" src="https://img.shields.io/badge/-Spring-000?&logo=Spring"></a>
+      <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch"></a>
+      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow"></a>
+  </p>
 </details> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
