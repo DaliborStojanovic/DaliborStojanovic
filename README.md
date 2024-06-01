@@ -71,6 +71,8 @@ As a backend developer with four years of experience, I've honed my skills in de
 
 ### Web Development 🌐 :
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
@@ -91,13 +93,14 @@ As a backend developer with four years of experience, I've honed my skills in de
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)
 ![DJango](https://img.shields.io/badge/-DJango-000?style=flat&logo=django)
 
-### IDEs/Editors 👨‍🔧 :
+### IDE & Tools 👨‍🔧 :
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code)
 ![Vim](https://img.shields.io/badge/Vim-000?style=flat&logo=vim)
 ![Jira](https://img.shields.io/badge/Jira-000?style=flat&logo=Jira)
 ![Sublime](https://img.shields.io/badge/SublimeText-000?style=flat&logo=sublime-text)
 ![Pycharm](https://img.shields.io/badge/Pycharm-000?style=flat&logo=pycharm)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter)
+![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman)
 
 ### Version Control 🔧 :
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
