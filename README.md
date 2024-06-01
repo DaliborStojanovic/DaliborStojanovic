@@ -10,6 +10,12 @@
     <a href="https://stackoverflow.com/users/13870209/milblue789" alt="StackOverflow">
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
     </a>
+    <a href="mailto:milblue789@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/milblue789">
+        <img src="https://img.shields.io/badge/-Instagram_-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+    </a>
 </p>
 
 # 💫 About Me:
@@ -176,20 +182,36 @@ As a backend developer with four years of experience, I've honed my skills in de
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Status
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaliborStojanovic&theme=algolia)
-![trophy](https://github-profile-trophy.vercel.app/?username=DaliborStojanovic&theme=dracula&no-frame=true&margin-w=15&margin-h=15)
+  <h3>🔥 Streak Stats</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
 
-### 📫 How to reach me:
+  <h3>💻 GitHub Profile Stats</h3>
 
-<div>
-<a href="https://www.linkedin.com/in/milblue789/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:milblue789@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/milblue789"><img src="https://img.shields.io/badge/-Instagram_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<div>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/DaliborStojanovic/github-readme-stats"><img alt="DaliborStojanovic's Github Stats" src="https://DaliborStojanovic-github-readme-stats.vercel.app/api/?username=DaliborStojanovic&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/DaliborStojanovic/github-readme-stats"><img alt="DaliborStojanovic's Top Languages" src="https://DaliborStojanovic-github-readme-stats.vercel.app/api/top-langs/?username=DaliborStojanovic&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <h3>💻 Trophy</h3>
+  <a href=#">
+      <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=DaliborStojanovic&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
+  </a>
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
