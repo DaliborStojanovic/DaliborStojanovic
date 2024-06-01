@@ -27,7 +27,7 @@
 [![GitHub DaliborStojanovic](https://img.shields.io/github/followers/DaliborStojanovic?label=follow&style=social)](https://github.com/DaliborStojanovic)
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-### BACK-END
+## BACK-END
 As a backend developer with 5+ years of experience, I've honed my skills in designing and building the server-side of applications that power the web.
 <br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.
 <br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.
@@ -35,7 +35,7 @@ As a backend developer with 5+ years of experience, I've honed my skills in desi
 <br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.
 <br>
 
-### FRONT-END
+## FRONT-END
 As a backend developer with 5+ years of experience, I've honed my skills in designing and building the server-side of applications that power the web.
 <br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.
 <br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.
@@ -43,7 +43,7 @@ As a backend developer with 5+ years of experience, I've honed my skills in desi
 <br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.
 <br>
 
-### BLOCKCHAIN
+## BLOCKCHAIN
 As a backend developer with 5+ years of experience, I've honed my skills in designing and building the server-side of applications that power the web.
 <br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.
 <br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.
