@@ -106,54 +106,55 @@ I'm interested in building something awesome with code and automate tasks with c
 <img src="https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white" />
 
 ## 🚀 Frameworks & Library
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
-<img src="https://img.shields.io/badge/apache_maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16" />
-<img src="https://img.shields.io/badge/axios-671ddf?&style=flat&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=Mocha&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" />
-<img src="https://img.shields.io/badge/Electron-2B2E3A?style=flat&logo=electron&logoColor=9FEAF9" />
-<img src="https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white" />
-<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/next%20js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Node%20js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/shopify-8DB543?style=flat&logo=Shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl" />
-<img src="https://img.shields.io/badge/pnpm-yellow?style=flat&logo=pnpm&logoColor=white" />
-<img src="https://img.shields.io/badge/postcss-DD3A0A?style=flat&logo=postcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/redis-CC0000.svg?&style=flat&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
-<img src="ttps://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" />
-<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=Svelte&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue%20js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/web3%20js-F16822?style=flat&logo=web3.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
-<img src="https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white" />
-<img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=flat&logo=antdesign&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/apache_maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16" />
+  <img src="https://img.shields.io/badge/axios-671ddf?&style=flat&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=Mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" />
+  <img src="https://img.shields.io/badge/Electron-2B2E3A?style=flat&logo=electron&logoColor=9FEAF9" />
+  <img src="https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/next%20js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/shopify-8DB543?style=flat&logo=Shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl" />
+  <img src="https://img.shields.io/badge/pnpm-yellow?style=flat&logo=pnpm&logoColor=white" />
+  <img src="https://img.shields.io/badge/postcss-DD3A0A?style=flat&logo=postcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
+  <img src="ttps://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=Svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/web3%20js-F16822?style=flat&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=flat&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+</p>
 
 ## ⚡ Database
 
