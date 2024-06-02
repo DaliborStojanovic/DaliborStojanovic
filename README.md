@@ -57,13 +57,10 @@ I take pride in writing clean and maintainable code that is easily scalable.
 I'm interested in building something awesome with code and automate tasks with code, currently focused on Web & Mobile Development, and Competitive Programming
 
 ## 🥅 Work/Jobs
+
 <img src="https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white" />
 <img src="https://img.shields.io/badge/fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" />
 <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -90,6 +87,7 @@ I'm interested in building something awesome with code and automate tasks with c
 # 🛠️ My Languages & Tools & Techs & Services 😎
 
 ## 👩‍💻 Languages
+
 <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
 <img src="https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=#E57324" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
@@ -108,6 +106,7 @@ I'm interested in building something awesome with code and automate tasks with c
 <img src="https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white" />
 
 ## 🚀 Frameworks & Library
+
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
@@ -157,6 +156,7 @@ I'm interested in building something awesome with code and automate tasks with c
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
 
 ## ⚡ Database
+
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
@@ -167,6 +167,7 @@ I'm interested in building something awesome with code and automate tasks with c
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 
 ## ☁ Cloud
+
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
@@ -178,6 +179,7 @@ I'm interested in building something awesome with code and automate tasks with c
 
 
 ## 👩‍💻 IDE
+
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" />
@@ -185,14 +187,6 @@ I'm interested in building something awesome with code and automate tasks with c
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white" />
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white" />
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
 
 
 ## 🖍 Design
@@ -203,6 +197,7 @@ I'm interested in building something awesome with code and automate tasks with c
 <img src="  https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff" />
 
 ## 🔗 Blockchain
+
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Binance-FCD535?style=flat&logo=binance&logoColor=000" />
@@ -213,6 +208,7 @@ I'm interested in building something awesome with code and automate tasks with c
 <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=flat" />
 
 ## 📅 Scheduling Automation Platforms
+
 <img src="https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white" />
   
 
@@ -229,6 +225,7 @@ I'm interested in building something awesome with code and automate tasks with c
 <img src="https://github-readme-stats.vercel.app/api?username=DaliborStojanovic&count_private=true&show_icons=true&theme=github_dark">
 
 ## 🔥 Trophy
+
 <img src="https://github-profile-trophy.vercel.app/?username=DaliborStojanovic&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
