@@ -89,7 +89,7 @@ I'm interested in building something awesome with code and automate tasks with c
 # 🛠️ My Languages & Tools & Techs & Services 😎
 
 ## 👩‍💻 Languages
-<p>
+<p  align="center">
   <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
   <img src="https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=#E57324" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
@@ -111,7 +111,7 @@ I'm interested in building something awesome with code and automate tasks with c
 ## 🚀 Frameworks & Library
 
 #### *** Web Frameworks and Libraries ***
-<p>
+<p  align="center">
   <img src="https://img.shields.io/badge/web3%20js-F16822?style=flat&logo=web3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
@@ -133,7 +133,7 @@ I'm interested in building something awesome with code and automate tasks with c
 </p>
 
 #### *** CSS Frameworks & UI Components ***
-<p>
+<p  align="center">
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/postcss-DD3A0A?style=flat&logo=postcss&logoColor=white" />
@@ -143,7 +143,7 @@ I'm interested in building something awesome with code and automate tasks with c
 </p>
 
 #### *** HTTP Management ***
-<p>
+<p  align="center">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white" />
@@ -153,14 +153,14 @@ I'm interested in building something awesome with code and automate tasks with c
 </p>
 
 #### *** Package Management ***
-<p>
+<p  align="center">
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/pnpm-yellow?style=flat&logo=pnpm&logoColor=white" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
 </p>
 
 ### *** Container & Tests ***
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
@@ -171,7 +171,7 @@ I'm interested in building something awesome with code and automate tasks with c
 
 ## ⚡ Database
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
@@ -184,7 +184,7 @@ I'm interested in building something awesome with code and automate tasks with c
 
 ## ☁ Cloud
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
@@ -197,7 +197,7 @@ I'm interested in building something awesome with code and automate tasks with c
 
 ## 👩‍💻 IDE
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" />
@@ -209,7 +209,7 @@ I'm interested in building something awesome with code and automate tasks with c
 
 ## 🖍 Design
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
   <img src="https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white" />
@@ -218,7 +218,7 @@ I'm interested in building something awesome with code and automate tasks with c
 
 ## 🔗 Blockchain
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Binance-FCD535?style=flat&logo=binance&logoColor=000" />
@@ -231,7 +231,7 @@ I'm interested in building something awesome with code and automate tasks with c
 
 ## 📅 Scheduling Automation Platforms
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white" />
 </p>
   
