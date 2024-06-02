@@ -56,12 +56,6 @@ In my previous roles, I have successfully implemented and maintained large-scale
 I take pride in writing clean and maintainable code that is easily scalable.
 I'm interested in building something awesome with code and automate tasks with code, currently focused on Web & Mobile Development, and Competitive Programming
 
-## 🥅 Work/Jobs
-
-<img src="https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white" />
-<img src="https://img.shields.io/badge/fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" />
-<img src="https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white" />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎑 Education & Employment
@@ -81,6 +75,14 @@ I'm interested in building something awesome with code and automate tasks with c
 | Pharos Production Inc. | Software Engineer           | 2014 - 2016     | Kyiv, Ukraine    |
 | Codetribe              | FullStack Developer         | 2016 - 2020     | Novi Sad, Serbia |
 | MVP Workshop           | Senior Blockchain Developer | 2020 - Present  | Beograd, Serbia  |
+
+### 🥅 Work/Jobs
+
+<p>
+  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" />
+  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white" />
+</p>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
