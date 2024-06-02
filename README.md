@@ -87,23 +87,24 @@ I'm interested in building something awesome with code and automate tasks with c
 # 🛠️ My Languages & Tools & Techs & Services 😎
 
 ## 👩‍💻 Languages
-
-<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
-<img src="https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=#E57324" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" />
-<img src="https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=#E57324" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white" />
+</p>
 
 ## 🚀 Frameworks & Library
 <p>
@@ -158,59 +159,69 @@ I'm interested in building something awesome with code and automate tasks with c
 
 ## ⚡ Database
 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+</p>
 
 ## ☁ Cloud
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
-<img src="https://img.shields.io/badge/circleci-343434?style=flat&logo=circleci&logoColor=white" />
-<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=Nextcloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" />
-
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/circleci-343434?style=flat&logo=circleci&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=Nextcloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" />
+</p>
 
 ## 👩‍💻 IDE
 
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" />
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" />
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white" />
-<img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white" />
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white" />
-
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white" />
+</p>
 
 ## 🖍 Design
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
-<img src="https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white" />
-<img src="  https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff" />
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white" />
+  <img src="  https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff" />
+</p>
 
 ## 🔗 Blockchain
 
-<img src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Binance-FCD535?style=flat&logo=binance&logoColor=000" />
-<img src="https://img.shields.io/badge/polkadot-E6007A?style=flat&logo=polkadot&logoColor=000" />
-<img src="https://img.shields.io/badge/chainlink-375BD2?style=flat&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/dogecoin-C2A633?style=flat&logo=dogecoin&logoColor=white" />
-<img src="https://img.shields.io/badge/tether-168363?style=flat&logo=tether&logoColor=white" /> 
-<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=flat" />
+<p>
+  <img src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Binance-FCD535?style=flat&logo=binance&logoColor=000" />
+  <img src="https://img.shields.io/badge/polkadot-E6007A?style=flat&logo=polkadot&logoColor=000" />
+  <img src="https://img.shields.io/badge/chainlink-375BD2?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/dogecoin-C2A633?style=flat&logo=dogecoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/tether-168363?style=flat&logo=tether&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=flat" />
+</p>
 
 ## 📅 Scheduling Automation Platforms
 
-<img src="https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white" />
+</p>
   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
