@@ -130,6 +130,7 @@ I'm interested in building something awesome with code and automate tasks with c
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/shopify-8DB543?style=flat&logo=Shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 #### *** CSS Frameworks & UI Components ***
